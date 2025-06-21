@@ -4,7 +4,7 @@
     "description": "Sets min and max refresh rate equally to achieve a stable FPS.",
     "author": "YasserNull",
     "socialmedia": "https://github.com/YasserNull",
-    "version": "1.0",
+    "version": "1",
     "versioncode": 1,
     "repository": "https://github.com/YasserNull/setbox-repo"
   }
