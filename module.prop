@@ -1,6 +1,6 @@
+id=stable-fps
 name=Stable FPS 
 description=Sets min and max refresh rate equally to achieve a stable FPS. 
 author=YasserNull 
-socialmedia=https://github.com/YasserNull 
 version=1
 versioncode=2
