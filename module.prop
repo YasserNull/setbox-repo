@@ -1,6 +1,6 @@
-id=setbox
-name=setbox
-version=1.0.0
-versionCode=1
-author=@YasserNull
-description=setbox
+name=Stable FPS 
+description=Sets min and max refresh rate equally to achieve a stable FPS. 
+author=YasserNull 
+socialmedia=https://github.com/YasserNull 
+version=1
+versioncode=2
