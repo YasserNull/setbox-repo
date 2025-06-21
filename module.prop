@@ -1,6 +1,6 @@
-id=stable-fps
-name=Stable FPS 
-description=Sets min and max refresh rate equally to achieve a stable FPS. 
-author=YasserNull 
-version=1
-versioncode=2
+id=show-touches
+name=Show touches
+description=Just quick module to show touches
+author=@YasserNull
+version=1.0.0
+versioncode=1
