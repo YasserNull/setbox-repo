@@ -1,7 +1,7 @@
 - id: chroot-distro
   name: chroot-distro 
-  description: Just quick module to show touches
+  description: test
   author: YasserNull
-  version: "1"
-  versionCode: "1"
+  version: 1
+  versionCode: 1
   repository: https://github.com/YasserNull/chroot-distro
