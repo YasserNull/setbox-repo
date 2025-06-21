@@ -1,4 +1,5 @@
 - name: Stable FPS
+  id: stable-fps
   description: Sets min and max refresh rate equally to achieve a stable FPS.
   author: YasserNull
   socialmedia: https://github.com/YasserNull
@@ -7,6 +8,7 @@
   repository: https://github.com/YasserNull/setbox-repo
 
 - name: Battery Saver
+  id: battrey-saver
   description: Reduces background activity to save battery.
   author: DevAhmed
   socialmedia: https://github.com/DevAhmed
