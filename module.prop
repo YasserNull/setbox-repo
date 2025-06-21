@@ -1,4 +1,6 @@
-id=test
-description=test
-name=test
-version=0
+id=setbox
+name=setbox
+version=1.0.0
+versionCode=1
+author=@YasserNull
+description=setbox
