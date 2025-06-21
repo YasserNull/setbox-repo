@@ -1,0 +1,15 @@
+- name: Stable FPS
+  description: Sets min and max refresh rate equally to achieve a stable FPS.
+  author: YasserNull
+  socialmedia: https://github.com/YasserNull
+  version: "1"
+  versioncode: "2"
+  repository: https://github.com/YasserNull/setbox-repo
+
+- name: Battery Saver
+  description: Reduces background activity to save battery.
+  author: DevAhmed
+  socialmedia: https://github.com/DevAhmed
+  version: "1.2"
+  versioncode: "3"
+  repository: https://github.com/DevAhmed/setbox-battery
