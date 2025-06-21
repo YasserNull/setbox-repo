@@ -1,7 +1,7 @@
-- id: setbox-repo
-  name: Show touches 
+- id: chroot-distro
+  name: chroot-distro 
   description: Just quick module to show touches
   author: YasserNull
   version: "1"
   versionCode: "1"
-  repository: https://github.com/YasserNull/setbox-repo
+  repository: https://github.com/YasserNull/chroot-distro
