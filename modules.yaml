@@ -1,6 +1,6 @@
 - id: show-touches
   name: Show touches
-  description: Just simple module to show touches
+  description: 
   author: YasserNull
   version: "1" 
   versionCode: "2" 
