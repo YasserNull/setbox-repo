@@ -6,7 +6,7 @@
   versionCode: "1" 
   repository: https://github.com/YasserYvY/show-touches
 
-  - id: developer-options
+- id: developer-options
   name: Developer Options
   description: Enable and disable developer options
   author: YasserYvY
