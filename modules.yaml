@@ -5,3 +5,75 @@
   version: "v1.0.0" 
   versionCode: "1" 
   repository: https://github.com/YasserYvY/show-touches
+
+  - id: developer-options
+  name: Developer Options
+  description: Enable and disable developer options
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/developer-options
+
+- id: disable-animation
+  name: Disable Animation
+  description: Sets all animation scales to 0.0 for instant response
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/disable-animation
+
+- id: disable-wifi-scan
+  name: Disable Wifi Scan
+  description: Stops apps from scanning Wi-Fi networks when Wi-Fi is off
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/disable-wifi-scan
+
+- id: fast-animation
+  name: Fast Animation
+  description: Toggle animation speed between 0.5 (on) and 1.0 (off) for smoother or fancier transitions
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/fast-animation
+
+- id: fast-long-press
+  name: Fast Long Press
+  description: When enabled, this module makes touch response faster by reducing long press delay
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/fast-long-press
+
+- id: force-4x-msaa
+  name: Force 4x Msaa
+  description: Force 4x MSAA for better graphics
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/force-4x-msaa
+
+- id: force-resizable-activities
+  name: Force Resizable Activities
+  description: Force all apps to support split screen
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/force-resizable-activities
+
+- id: superwallpaper-aod-fixer
+  name: Super Wallpaper AOD Fixer
+  description: Enables Super Wallpaper AOD on unsupported Android devices.
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/superwallpaper-aod-fixer
+
+- id: xiaomi-gameturbo-fixer
+  name: "[Xiaomi] Game Turbo Fixer"
+  description: Fixes Game Turbo not working on some Xiaomi devices
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/xiaomi-gameturbo-fixer
