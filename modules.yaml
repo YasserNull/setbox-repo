@@ -77,3 +77,19 @@
   version: "v1.0.0"
   versionCode: "1"
   repository: https://github.com/YasserYvY/xiaomi-gameturbo-fixer
+
+- id: enable-install-non-market-apps
+  name: Enable Install Non-Market Apps
+  description: Allows installing apps from unknown sources (non-market apps).
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/enable-install-non-market-apps
+  
+- id: disable-auto-update-app-via-wifi
+  name: Disable Auto Update via Wi-Fi
+  description: Disables automatic app updates when connected to Wi-Fi
+  author: YasserYvY
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/YasserYvY/disable-auto-update-app-via-wifi
