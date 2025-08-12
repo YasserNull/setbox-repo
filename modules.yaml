@@ -101,3 +101,11 @@
   version: "v1.0.0"
   versionCode: "1"
   repository: https://github.com/Eagle1337/Setbox-Wireless-adb
+
+- id: xiaomi-speedz
+  name: [Xiaomi] Speedz
+  description: activate speed mode on Xiaomi devices
+  author: Alisuuu
+  version: "v1.0.0"
+  versionCode: "1"
+  repository: https://github.com/Alisuuu/Speedmode
